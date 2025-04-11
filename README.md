@@ -60,12 +60,12 @@ An interactive web application built using Streamlit for real-time data visualiz
 ### [Financial Data Analysis](https://github.com/Mister2005/Financial-Data-Analysis)
 Applied advanced data analysis techniques using Python libraries (Pandas, Matplotlib) on financial datasets, achieving 90%+ accuracy in predictive models.
 
-### [Logistics Optimization Engine](https://github.com/Mister2005/Logistics-Optimization)
+### [Logistics Optimization Engine]
 - Reduced operational costs by 18% using Python/Dask dynamic resource allocation algorithms
 - Implemented multi-agent reinforcement learning for adaptive routing, improving delivery consistency by 22%
 - Integrated geospatial APIs and Streamlit dashboard for real-time route monitoring
 
-### [AI Task Management Dashboard](https://github.com/Mister2005/AI-Task-Management)
+### [AI Task Management Dashboard]
 - Built React/Node.js platform reducing task latency by 35% via automated priority queuing
 - Developed ML recommendation system with NLP auto-categorization for 150+ concurrent service tickets
 - Created D3.js visualizations that cut managerial overhead by 40% through predictive capacity planning
@@ -93,7 +93,6 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 
 - LinkedIn: [linkedin.com/in/varun-gupta-220382290](https://linkedin.com/in/varun-gupta-220382290)
 - Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
-- GitHub: [github.com/Mister2005](https://github.com/Mister2005)
 - Phone: +91 9313228834
 
 ---
