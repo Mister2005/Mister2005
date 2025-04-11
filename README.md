@@ -128,7 +128,7 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 <table width="100%"> 
   <tr>
     <td width="50%">
-      <a href="[https://open.spotify.com](https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ)" target="_blank">
+      <a href="https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ" target="_blank">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
         <p><b>Vartamaan</b><br/>
         <i>Artist: Ritviz</i></p>
