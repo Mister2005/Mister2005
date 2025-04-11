@@ -128,9 +128,11 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 <table width="100%"> 
   <tr>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-      <p><b>Vartamaan</b><br/>
-      <i>Artist: Ritviz</i></p>
+      <a href="https://open.spotify.com/track/5jXD9cNKbScnCLEPbGnGaa" target="_blank">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+        <p><b>Vartamaan</b><br/>
+        <i>Artist: Ritviz</i></p>
+      </a>
     </td>
     <td width="50%">
       <p align="center">
