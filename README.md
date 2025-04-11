@@ -1,13 +1,12 @@
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/header-image.jpg" height="175px"/>
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/header-image.jpeg" height="175px"/>
 
 # 👋 Hi there, I'm Varun Gupta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Data+Visualization+Expert;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Data+Scientist;Python+Developer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-gupta-220382290)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunygupta123@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Mister2005?style=for-the-badge&logo=github)](https://github.com/Mister2005)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/varungupta)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/profile-pic.jpg">
 
