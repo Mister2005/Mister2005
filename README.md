@@ -125,7 +125,7 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b?si=N6ddXhEMSNGhnn8aUsbvMQ)
+[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/00fpo2S0GkfGGpk0dpm19b?si=N6ddXhEMSNGhnn8aUsbvMQ)
 
 ## 📫 Get In Touch
 
@@ -136,12 +136,6 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mister2005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-
-## 📫 Get In Touch
-
-- LinkedIn: [linkedin.com/in/varun-gupta-220382290](https://linkedin.com/in/varun-gupta-220382290)
-- Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
-- Phone: +91 9313228834
 
 ---
 ⭐️ From [Varun Gupta](https://github.com/Mister2005)
