@@ -1,14 +1,45 @@
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/header-image.jpg" height="175px"/>
+
 # 👋 Hi there, I'm Varun Gupta
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Data+Visualization+Expert;Python+Developer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-gupta-220382290)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunygupta123@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Mister2005?style=for-the-badge&logo=github)](https://github.com/Mister2005)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/varungupta)
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/profile-pic.jpg">
 
 ## 🧠 About Me
 
 I'm an AI & Data Science Engineering student passionate about transforming raw data into actionable insights. Currently pursuing my Bachelor's degree at Dwarkadas J Sanghvi College of Engineering in Mumbai, I specialize in Machine Learning, Data Analysis, and Cloud Architecture. I'm particularly focused on Large Action Models and optimizing data pipelines.
 
-## 🛠️ Technical Skills
+<details>
+<summary>📊 GitHub Stats & Activity</summary>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mister2005&show_icons=true&theme=tokyonight" alt="Varun's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mister2005&theme=tokyonight" alt="Varun's github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister2005&theme=tokyonight" alt="Activity Graph" />
+</p>
+
+### 📈 Contribution Graph
+[![Varun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mister2005&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+<summary>🛠️ Technical Skills</summary>
+<br>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,18 +72,16 @@ I'm an AI & Data Science Engineering student passionate about transforming raw d
 ### Cloud
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📊 GitHub Stats
-
+### Skill Progress
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mister2005&show_icons=true&theme=tokyonight" alt="Varun's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mister2005&theme=tokyonight" alt="Varun's github streak" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,pytorch,tensorflow,git,flask,docker,gcp&perline=5" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister2005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</details>
 
-## 🚀 Projects
+<details>
+<summary>🚀 Projects</summary>
+<br>
 
 ### [AutoVisual](https://github.com/Mister2005/AutoVisual)
 An interactive web application built using Streamlit for real-time data visualization and analysis, making complex data insights accessible through an intuitive interface.
@@ -73,7 +102,11 @@ Applied advanced data analysis techniques using Python libraries (Pandas, Matplo
 ### [Exploratory Data Analysis - Bengaluru Housing](https://github.com/Mister2005/Bengaluru-Housing-EDA)
 Performed comprehensive EDA to uncover insights into pricing trends using Python's data visualization tools, revealing key market patterns and price determinants.
 
-## 🏆 Achievements & Certifications
+</details>
+
+<details>
+<summary>🏆 Achievements & Certifications</summary>
+<br>
 
 - Mastered Advanced Machine Learning by Kaggle
 - Data Analysis certification by FreeCodeCamp
@@ -82,12 +115,43 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 - 500+ rating on CodeForces; Solved 50+ algorithmic challenges
 - Led Data Science mentorship program for 200+ undergraduate students
 
+</details>
+
 ## 📚 Education
 
 **Bachelor of Engineering in Artificial Intelligence & Data Science**  
 *Dwarkadas J Sanghvi College of Engineering, Mumbai*  
 *CGPA: 8.71/10.0*  
 *2023 - 2027*
+
+## 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+## 📫 Get In Touch
+
+- LinkedIn: [linkedin.com/in/varun-gupta-220382290](https://linkedin.com/in/varun-gupta-220382290)
+- Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
+- Phone: +91 9313228834
+
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 35 mins  ███████████████░░░░░░░░░░   60.45 % 
+Data Science 5 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Java         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+SQL          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+```
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mister2005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/Mister2005/Mister2005/update-readme.yml?label=README%20Build&logo=github&style=for-the-badge" alt="README Build" />
+</p>
 
 ## 📫 Get In Touch
 
@@ -96,7 +160,4 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 - Phone: +91 9313228834
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mister2005&color=blueviolet)
-
 ⭐️ From [Varun Gupta](https://github.com/Mister2005)
