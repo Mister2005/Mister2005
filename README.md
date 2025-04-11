@@ -125,7 +125,20 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/00fpo2S0GkfGGpk0dpm19b?si=N6ddXhEMSNGhnn8aUsbvMQ)
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+      <p><b>Vartamaan</b><br/>
+      <i>Artist: Ritviz</i></p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJtNmZvYXAyMXMxdGtxM3VjMzRsczgwbWFza2trYXJlcHcwbDR0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Music Animation" height="90"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Get In Touch
 
