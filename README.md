@@ -1,67 +1,103 @@
-<!-- BANNER (optional SVG or ASCII art) -->
-![Banner](./assets/banner.svg)
+# 👋 Hi there, I'm Varun Gupta
 
-# Hi there, I’m Varun Gupta 👋  
-_Data Science enthusiast turning raw data into insights_  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-gupta-220382290)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunygupta123@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Mister2005?style=for-the-badge&logo=github)](https://github.com/Mister2005)
 
-<!-- PROFILE STATS -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister2005&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister2005&layout=compact)
+## 🧠 About Me
 
-<!-- INTRO -->
-I’m a **Data Scientist** based in Mumbai who loves **data visualization**, **data analysis**, and **teaching**. Whether I’m building tools like [Automatic‑Data‑Visualizer‑AI‑Agent](https://github.com/Mister2005/Automatic-Data-Visualizer-AI-Agent) or crafting tutorials, I’m all about making data approachable and fun! 🚀
+I'm an AI & Data Science Engineering student passionate about transforming raw data into actionable insights. Currently pursuing my Bachelor's degree at Dwarkadas J Sanghvi College of Engineering in Mumbai, I specialize in Machine Learning, Data Analysis, and Cloud Architecture. I'm particularly focused on Large Action Models and optimizing data pipelines.
 
-<!-- DYNAMIC QUOTE (auto‑updated daily via GitHub Action) -->
-> <!--QUOTE-->“Data is the new oil.” — Clive Humby
+## 🛠️ Technical Skills
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Project
-- [Automatic‑Data‑Visualizer‑AI‑Agent](https://github.com/Mister2005/Automatic-Data-Visualizer-AI-Agent)  
-  A Python‑based AI agent that automates the creation of interactive data visualizations.  
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!-- SKILLS -->
-## 🛠️ Skills & Tools
-- **Visualization:** Matplotlib, Seaborn, Plotly  
-- **Analysis:** Pandas, NumPy, SciPy  
-- **ML / AI:** scikit‑learn, TensorFlow, PyTorch  
-- **Teaching:** Jupyter, Streamlit, Markdown  
+### Data Science & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-<!-- CONTACT & SOCIAL -->
-## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VarunGupta-blue)](https://www.linkedin.com/in/varun-gupta-220382290)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)  
+### Data Visualization
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Cloud
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mister2005&show_icons=true&theme=tokyonight" alt="Varun's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mister2005&theme=tokyonight" alt="Varun's github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🚀 Projects
+
+### [AutoVisual](https://github.com/Mister2005/AutoVisual)
+An interactive web application built using Streamlit for real-time data visualization and analysis, making complex data insights accessible through an intuitive interface.
+
+### [Financial Data Analysis](https://github.com/Mister2005/Financial-Data-Analysis)
+Applied advanced data analysis techniques using Python libraries (Pandas, Matplotlib) on financial datasets, achieving 90%+ accuracy in predictive models.
+
+### [Logistics Optimization Engine](https://github.com/Mister2005/Logistics-Optimization)
+- Reduced operational costs by 18% using Python/Dask dynamic resource allocation algorithms
+- Implemented multi-agent reinforcement learning for adaptive routing, improving delivery consistency by 22%
+- Integrated geospatial APIs and Streamlit dashboard for real-time route monitoring
+
+### [AI Task Management Dashboard](https://github.com/Mister2005/AI-Task-Management)
+- Built React/Node.js platform reducing task latency by 35% via automated priority queuing
+- Developed ML recommendation system with NLP auto-categorization for 150+ concurrent service tickets
+- Created D3.js visualizations that cut managerial overhead by 40% through predictive capacity planning
+
+### [Exploratory Data Analysis - Bengaluru Housing](https://github.com/Mister2005/Bengaluru-Housing-EDA)
+Performed comprehensive EDA to uncover insights into pricing trends using Python's data visualization tools, revealing key market patterns and price determinants.
+
+## 🏆 Achievements & Certifications
+
+- Mastered Advanced Machine Learning by Kaggle
+- Data Analysis certification by FreeCodeCamp
+- Top 10 finalist in 2 out of 6 hackathons, earning recognition for 'Most Innovative Solution'
+- Runner-up in SVKM's MPSTME Technology Innovation Challenge (50+ competing teams)
+- 500+ rating on CodeForces; Solved 50+ algorithmic challenges
+- Led Data Science mentorship program for 200+ undergraduate students
+
+## 📚 Education
+
+**Bachelor of Engineering in Artificial Intelligence & Data Science**  
+*Dwarkadas J Sanghvi College of Engineering, Mumbai*  
+*CGPA: 8.71/10.0*  
+*2023 - 2027*
+
+## 📫 Get In Touch
+
+- LinkedIn: [linkedin.com/in/varun-gupta-220382290](https://linkedin.com/in/varun-gupta-220382290)
+- Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
+- GitHub: [github.com/Mister2005](https://github.com/Mister2005)
+- Phone: +91 9313228834
 
 ---
 
-## ⚙️ How It Works
+![Profile Views](https://komarev.com/ghpvc/?username=Mister2005&color=blueviolet)
 
-1. **Live Stats & Languages**  
-   The two badges at the top auto‑refresh from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  
-
-2. **Daily Quote**  
-   A GitHub Action runs every morning at 8 AM UTC to fetch a random programming quote and inject it between `<!--QUOTE-->` markers.  
-
-   ```yaml
-   # .github/workflows/update-quote.yml
-   name: Update README Quote
-   on:
-     schedule:
-       - cron: '0 8 * * *'
-   jobs:
-     update-quote:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v3
-         - name: Fetch random quote
-           id: quote
-           run: |
-             echo "::set-output name=text::$(curl -s https://programming-quotes-api.herokuapp.com/quotes/random | jq -r .en)"
-         - name: Update README
-           run: |
-             sed -i "s|<!--QUOTE-->.*|<!--QUOTE-->\"${{ steps.quote.outputs.text }}\"|" README.md
-         - uses: EndBug/add-and-commit@v9
-           with:
-             author_name: github-actions[bot]
-             author_email: github-actions[bot]@users.noreply.github.com
-             message: "chore: update daily quote"
-```
+⭐️ From [Varun Gupta](https://github.com/Mister2005)
