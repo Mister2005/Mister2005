@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/header-image.jpeg" height="175px"/>
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/header-image.jpg" height="175px"/>
 
 # 👋 Hi there, I'm Varun Gupta
 
