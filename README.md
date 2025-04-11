@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunygupta123@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Mister2005?style=for-the-badge&logo=github)](https://github.com/Mister2005)
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/profile-pic.jpg">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/profile-pic.jpg">
 
 ## 🧠 About Me
 
@@ -125,7 +125,7 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b?si=N6ddXhEMSNGhnn8aUsbvMQ)
 
 ## 📫 Get In Touch
 
@@ -133,23 +133,8 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 - Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
 - Phone: +91 9313228834
 
-## 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 35 mins  ███████████████░░░░░░░░░░   60.45 % 
-Data Science 5 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Java         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-SQL          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-```
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mister2005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/Mister2005/Mister2005/update-readme.yml?label=README%20Build&logo=github&style=for-the-badge" alt="README Build" />
 </p>
 
 ## 📫 Get In Touch
