@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunygupta123@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Mister2005?style=for-the-badge&logo=github)](https://github.com/Mister2005)
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/profile-pic.jpg">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/profile-pic.jpg">
 
 ## 🧠 About Me
 
