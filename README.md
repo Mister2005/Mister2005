@@ -145,7 +145,7 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 
 ## 📫 Get In Touch
 
-- LinkedIn: [linkedin.com/in/varun-gupta-220382290]([https://linkedin.com/in/varun-gupta-220382290](https://www.linkedin.com/in/varun-yogesh-gupta))
+- LinkedIn: [linkedin.com/in/varun-yogesh-gupta](https://www.linkedin.com/in/varun-yogesh-gupta)
 - Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
 - Phone: +91 9313228834
 
