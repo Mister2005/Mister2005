@@ -20,7 +20,7 @@ I'm an AI & Data Science Engineering student passionate about transforming raw d
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mister2005&show_icons=true&theme=tokyonight" alt="Varun's github stats" />
-  <img src="https://streak-stats.demolab.com/?user=Mister2005&theme=tokyonight" alt="Varun's github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mister2005&theme=tokyonight" alt="Varun's github streak" />
 </p>
 
 <p align="center">
