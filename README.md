@@ -107,6 +107,7 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 <summary>🏆 Achievements & Certifications</summary>
 <br>
 
+- 1x Hackathon Winner
 - Mastered Advanced Machine Learning by Kaggle
 - Data Analysis certification by FreeCodeCamp
 - Top 10 finalist in 2 out of 6 hackathons, earning recognition for 'Most Innovative Solution'
@@ -144,7 +145,7 @@ Performed comprehensive EDA to uncover insights into pricing trends using Python
 
 ## 📫 Get In Touch
 
-- LinkedIn: [linkedin.com/in/varun-gupta-220382290](https://linkedin.com/in/varun-gupta-220382290)
+- LinkedIn: [linkedin.com/in/varun-gupta-220382290]([https://linkedin.com/in/varun-gupta-220382290](https://www.linkedin.com/in/varun-yogesh-gupta))
 - Email: [varunygupta123@gmail.com](mailto:varunygupta123@gmail.com)
 - Phone: +91 9313228834
 
