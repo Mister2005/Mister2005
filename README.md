@@ -1,14 +1,10 @@
 <img src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/header-image.jpg" width="100%" height="200px"/>
-
 <h1 align="center">Hi, I'm Mister2005 👋</h1>
-<p align="center">
-  <b>AI & Data Science Enthusiast | Engineering Student | Curious Explorer</b>
-</p>
+<p align="center">  <b>AI & Data Science Enthusiast | Engineering Student | Curious Explorer</b></p>
 
 ---
 
 ### 🚀 About Me
-
 - 🎓 Third-year Engineering student passionate about AI, ML, DL, DS, and Generative AI
 - 🤖 Exploring next-gen tech, building smart data products & open-source projects
 - 🏆 Hackathon winner & lifelong learner
@@ -17,7 +13,6 @@
 ---
 
 ### 🛠️ Technical Skills
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -34,8 +29,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
@@ -53,12 +46,11 @@
 ---
 
 ### 🚀 Featured Projects
-
 - [**AutoVisual**](https://github.com/Mister2005/AutoVisual)  
   *Interactive Streamlit web app for real-time data visualization and analysis.*
 
-- [**Financial Data Analysis**](https://github.com/Mister2005/Financial-Data-Analysis)  
-  *Advanced analytics with Pandas & Matplotlib; deployed ML models with 90%+ accuracy.*
+- [**Infomatrix-Data-Science-Tasks: Time Series Project**](https://github.com/Mister2005/Infomatrix-Data-Science-Tasks/tree/main/Time%20series%20project)  
+  *An end-to-end time series forecasting project analyzing a real-world crime dataset (2020–present). Includes a forecasting notebook, interactive crime heatmap (HTML), and dataset zip. Demonstrates exploratory analysis, modeling, and visualization for practical sequence prediction.*
 
 - **Logistics Optimization Engine**  
   *Cut operational costs using Python/Dask, applied multi-agent RL for adaptive routing (22% boost!), live geospatial dashboard.*
@@ -72,30 +64,26 @@
 ---
 
 ### 🏅 Achievements & Certifications
-
 - 🥇 1× Hackathon Winner
 - 📜 Continuous upskilling with cutting-edge AI/ML certifications
 
 ---
 
 ### 🌱 Currently Learning
-
 - Advanced Deep Learning, LLMs, and Cloud AI Solutions
 
 ---
 
-### 🤝 Let’s Connect!
-
+### 🤝 Let's Connect!
 - 💌 [Gmail](mailto:youraddress@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/YOURPROFILE)
 - 🌐 [Portfolio/Blog](https://github.com/Mister2005?tab=repositories)
 
 ---
 
-> *“Striving to make data work for a better, smarter world.”*
+> *"Striving to make data work for a better, smarter world."*
 
 ---
 
-<!--
-**Mister2005/Mister2005** is a ✨ special ✨ repository. Its `README.md` appears on your profile!
+<!--**Mister2005/Mister2005** is a ✨ special ✨ repository. Its `README.md` appears on your profile!
 -->
