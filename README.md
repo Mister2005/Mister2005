@@ -73,7 +73,7 @@
 
 ### 🏅 Achievements & Certifications
 
-- 🥇 1× Hackathon Winner
+- 🥇 4× Hackathon Winner
 - 📜 Continuous upskilling with cutting-edge AI/ML certifications
 
 ---
