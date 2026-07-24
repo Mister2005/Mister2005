@@ -1,0 +1,44 @@
+"""Aplainbatchgradientdescentfitforlinearregression.Thisisareal,runnableimplementation-notadecoration.Itssourcetextdoublesasthecha
+racterstreamforthecode-portraitinassets/portrait-*.svg:everyglyphyouseeinthatportraitisacharactercopiedinorderfromthisfile,tintedw
+iththephoto'sactualpixelcolours."""from__future__importannotationsimportrandomdefgenerate_data(n:int=200,true_w:float=2.5,true_b:f
+loat=-1.0,noise:float=1.0):xs=[random.uniform(-10,10)for_inrange(n)]ys=[true_w*x+true_b+random.gauss(0,noise)forxinxs]returnxs,ysd
+efpredict(w:float,b:float,x:float)->float:returnw*x+bdefmean_squared_error(w:float,b:float,xs:list[float],ys:list[float])->float:n
+=len(xs)total=0.0forx,yinzip(xs,ys):error=predict(w,b,x)-ytotal+=error*errorreturntotal/ndefgradients(w:float,b:float,xs:list[floa
+t],ys:list[float])->tuple[float,float]:n=len(xs)dw=0.0db=0.0forx,yinzip(xs,ys):error=predict(w,b,x)-ydw+=2*error*xdb+=2*errorretur
+ndw/n,db/ndefgradient_descent(xs:list[float],ys:l-:.--::.....:...:=--:=01,epochs:int=500,w:float=0.0,b:float=0.0,):history=[]forep
+ochinrange(epochs):dw,db=gradients(w,b,:.-::)w=:..     ...  .. .      ...:--ed_error(w,b,xs,ys)history.append(loss)ifepoch%50==0:p
+rint(f"epoch{epoch:4d}loss{loss:.4f}w{-...:.:. .                         .   .:-:random.seed(2005)xs,ys=generate_data()w,b,history
+=gradient_descent(xs,ys)print(f"\nfin-:.                                         .:history[-1]:.4f}")if__name__=="__main__":main()
+"""Aplainbatchgradientdescentfitfor-..                                            ..=n-notadecoration.Itssourcetextdoublesasthecha
+racterstreamforthecode-portraitinas=.                                              ..=sacharactercopiedinorderfromthisfile,tintedw
+iththephoto'sactualpixelcolours.""":.                                              .:-ate_data(n:int=200,true_w:float=2.5,true_b:f
+loat=-1.0,noise:float=1.0):xs=[ra-.                                               ..e_b+random.gauss(0,noise)forxinxs]returnxs,ysd
+efpredict(w:float,b:float,x:flo=:                                                .:b:float,xs:list[float],ys:list[float])->float:n
+=len(xs)total=0.0forx,yinzip(xs:                                                 :::tal/ndefgradients(w:float,b:float,xs:list[floa
+t],ys:list[float])->tuple[float,-:.                                             ..::-predict(w,b,x)-ydw+=2*error*xdb+=2*errorretur
+ndw/n,db/ndefgradient_descent(xs:l.                                        ......::-:-00,w:float=0.0,b:float=0.0,):history=[]forep
+ochinrange(epochs):dw,db=gradients-                                     ...........::::b,xs,ys)history.append(loss)ifepoch%50==0:p
+rint(f"epoch{epoch:4d}loss{loss:.4.                                                ..:::seed(2005)xs,ys=generate_data()w,b,history
+=gradient_descent(xs,ys)print(f"\n.                                              ........y[-1]:.4f}")if__name__=="__main__":main()
+"""Aplainbatchgradientdescentfitfo:                                           ..=ation. =tadecoration.Itssourcetextdoublesasthecha
+racterstreamforthecode-portraitina-                               ..          .:----:..:c-ar=ctercopiedinorderfromthisfile,tintedw
+iththephoto'sactualpixelcolours."":                                           ....    ..:==:.=(n:int=200,true_w:float=2.5,true_b:f
+loat=-1.0,noise:float=1.0):xs=[ran.                                   .....             .:----.gauss(0,noise)forxinxs]returnxs,ysd
+efpredict(w:float,b:float,x:float).                                           .           .--:list[float],ys:list[float])->float:n
+=len(xs)total=0.0forx,yinzip(xs,ys)-                                                       :::adients(w:float,b:float,xs:list[floa
+t],ys:list[float])->tuple[float,floa.                                                      :=w,b,x)-ydw+=2*error*xdb+=2*errorretur
+ndw/n,db/ndefgradient_descent(xs:lis-                                           .      .. .float=0.0,b:float=0.0,):history=[]forep
+ochinrange(epochs):dw,db=gradients(w=.                                          .      .: .,ys)history.append(loss)ifepoch%50==0:p
+rint(f"epoch{epoch:4d}loss{loss:.4f}w{.                                                 ..ed(2005)xs,ys=generate_data()w,b,history
+=gradient_descent(xs,ys)print(f"\nfinal.                                                .:[-1]:.4f}")if__name__=="__main__":main()
+"""Aplainbatchgradientdescentfitforlinea.                                                .adecoration.Itssourcetextdoublesasthecha
+racterstreamforthecode-portraitinassets/=.                                              .-aractercopiedinorderfromthisfile,tintedw
+iththephoto'sactualpixelcolours.""-:..                                                 ..:data(n:int=200,true_w:float=2.5,true_b:f
+loat=-1.0,noise:float=1.0):xs-:..                                                        .:dom.gauss(0,noise)forxinxs]returnxs,ysd
+efpredict(w:float,b:float,.                                                              ..xs:list[float],ys:list[float])->float:n
+=len(xs)total=0.0forx,yin                                                                 .fgradients(w:float,b:float,xs:list[floa
+t],ys:list[float])->tupl:                                                                   :w,b,x)-ydw+=2*error*xdb+=2*errorretur
+ndw/n,db/ndefgradient_de.                                                                     .=--=0,b:float=0.0,):history=[]forep
+ochinrange(epochs):dw,d=                                                                             .-append(loss)ifepoch%50==0:p
+rint(f"epoch{epoch:4d}l.                                                                                .-nerate_data()w,b,history
+=gradient_descent(xs,ys                                                                                   :me__=="__main__":main()
