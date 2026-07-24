@@ -4,8 +4,6 @@
   <img alt="Code portrait of Varun Gupta, rendered from the source of gradient_descent.py" src="https://raw.githubusercontent.com/Mister2005/Mister2005/main/assets/portrait-light.svg" width="100%">
 </picture>
 
-<p align="center"><sub>↑ That's me — every character above is copied, in order, from <a href="tools/gradient_descent.py"><code>tools/gradient_descent.py</code></a>, a real runnable gradient descent implementation, each glyph tinted with my photo's actual pixel colour. <a href="assets/portrait.txt">plain text</a> · <code>python varun.py</code> for a terminal version.</sub></p>
-
 ---
 
 <h1 align="center">Hi, I'm Varun Gupta</h1>
