@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="180" viewBox="0 0 780 180" role="img"><title>Varun Gupta</title><rect width="100%" height="100%" fill="#0d1117"/>
+    <defs>
+      <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#58a6ff"/><stop offset="55%" stop-color="#79c0ff"/><stop offset="100%" stop-color="#a5d6ff"/>
+      </linearGradient>
+    </defs>
+    <path d="M0,180 L0,150 L60,130 L120,142 L180,108 L240,122 L300,96 L360,118 L420,90 L480,112 L540,100 L600,124 L660,104 L720,128 L780,116 L780,180 Z" fill="#1f2733" opacity="0.6"/>
+    <text x="20" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700"
+          fill="url(#nameGrad)">Hi, I&#39;m Varun Gupta</text>
+    <g><text x="20" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#8b949e" class="sub" style="animation-delay:0.0s">AI &amp; Data Science Student</text><text x="20" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#8b949e" class="sub" style="animation-delay:2.6s">Machine Learning Enthusiast</text><text x="20" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#8b949e" class="sub" style="animation-delay:5.2s">Data Scientist</text><text x="20" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#8b949e" class="sub" style="animation-delay:7.8s">Python Developer</text></g>
+    <style>
+      .sub {
+        opacity: 0;
+        animation-name: cycle;
+        animation-duration: 10.4s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+      }
+      @keyframes cycle {
+        0% { opacity: 0; }
+        4% { opacity: 1; }
+        21.0% { opacity: 1; }
+        25.0% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+    </style>
+    </svg>
